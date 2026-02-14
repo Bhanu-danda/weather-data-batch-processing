@@ -1,0 +1,36 @@
+2026-02-07 11:44:24,006 - INFO - Ingestion started
+2026-02-07 11:44:24,006 - INFO - Calling weather API
+2026-02-07 11:44:25,016 - INFO - API call successful
+2026-02-07 11:44:25,016 - INFO - JSON parsed successfully
+2026-02-07 11:44:25,016 - INFO - Ingestion finished
+2026-02-07 11:45:55,524 - INFO - Ingestion started
+2026-02-07 11:45:55,524 - INFO - Calling weather API
+2026-02-07 11:45:56,621 - INFO - API call successful
+2026-02-07 11:45:56,637 - ERROR - Response is not valid JSON
+2026-02-07 11:45:56,637 - INFO - Ingestion finished
+2026-02-07 11:49:56,368 - INFO - Ingestion started
+2026-02-07 11:49:56,368 - INFO - Calling weather API
+2026-02-07 11:49:57,788 - INFO - JSON parsed successfully
+2026-02-07 11:49:57,789 - INFO - Metadata added to ingested data
+2026-02-07 11:49:57,789 - INFO - Ingestion finished successfully
+2026-02-09 19:46:34,111 - INFO - Ingestion started
+2026-02-09 19:46:34,111 - INFO - Calling weather API
+2026-02-09 19:46:35,291 - INFO - JSON parsed successfully
+2026-02-09 19:46:35,292 - INFO - Metadata added to ingested data
+2026-02-09 19:46:35,292 - INFO - Ingestion finished successfully
+2026-02-09 19:46:35,635 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-02-09 19:46:37,429 - INFO - Raw data uploaded to S3: raw/weather/f0e570c8-065b-4cdb-98be-b27f4b4eda4e.json
+2026-02-09 19:51:41,466 - INFO - Ingestion started
+2026-02-09 19:51:41,466 - INFO - Calling weather API
+2026-02-09 19:51:42,634 - INFO - JSON parsed successfully
+2026-02-09 19:51:42,635 - INFO - Metadata added to ingested data
+2026-02-09 19:51:42,637 - INFO - Ingestion finished successfully
+2026-02-09 19:51:42,819 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-02-09 19:51:44,629 - INFO - Raw data uploaded to S3: raw/weather/78009992-4068-4953-a4bf-f328f42de85e.json
+2026-02-14 17:50:15,786 - INFO - Ingestion started
+2026-02-14 17:50:15,802 - INFO - Calling weather API
+2026-02-14 17:50:16,974 - INFO - JSON parsed successfully
+2026-02-14 17:50:16,980 - INFO - Metadata added to ingested data
+2026-02-14 17:50:16,980 - INFO - Ingestion finished successfully
+2026-02-14 17:50:17,142 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-02-14 17:50:18,322 - INFO - Raw data uploaded to S3: raw/weather/6da80502-d8f7-4e61-b356-5bc5a3a21139.json
