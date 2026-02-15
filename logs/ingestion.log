@@ -34,3 +34,20 @@
 2026-02-14 17:50:16,980 - INFO - Ingestion finished successfully
 2026-02-14 17:50:17,142 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
 2026-02-14 17:50:18,322 - INFO - Raw data uploaded to S3: raw/weather/6da80502-d8f7-4e61-b356-5bc5a3a21139.json
+2026-02-15 13:00:18,991 - INFO - ===================================
+2026-02-15 13:00:18,991 - INFO - PIPELINE STARTED
+2026-02-15 13:00:18,991 - INFO - ===================================
+2026-02-15 13:00:18,991 - INFO - Running Ingestion Layer
+2026-02-15 13:00:18,991 - INFO - ===== INGESTION STEP STARTED =====
+2026-02-15 13:00:18,991 - INFO - Ingestion started
+2026-02-15 13:00:18,991 - INFO - Calling weather API
+2026-02-15 13:00:20,398 - INFO - Metadata added successfully
+2026-02-15 13:00:20,479 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-02-15 13:00:22,760 - INFO - Uploaded raw file: raw/weather/1fbcfde8-c391-43d3-8f4f-f85b5176784c.json
+2026-02-15 13:00:22,760 - INFO - ===== INGESTION STEP COMPLETED =====
+2026-02-15 13:00:22,760 - INFO - Running Transformation Layer
+2026-02-15 13:00:26,128 - INFO - Running Gold Layer
+2026-02-15 13:00:26,166 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-02-15 13:00:32,328 - INFO - PIPELINE COMPLETED SUCCESSFULLY
+2026-02-15 13:00:32,330 - INFO - Total Pipeline Runtime: 13.34 seconds
+2026-02-15 13:00:32,330 - INFO - ===================================
